@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FocusLock</string>
+    <string name="accessibility_service_description">FocusLock uses accessibility services solely to detect when you attempt to open applications you explicitly selected to block during an active focus session, instantly displaying a blocking shield to help you maintain focus. No personal information or screen content is ever read, recorded, or transmitted.</string>
+    <string name="notification_channel_name">FocusLock Active Sessions</string>
+    <string name="notification_channel_desc">Shows ongoing countdown and status during an active focus session</string>
+    <string name="session_active_notification_title">FocusLock Shield Active</string>
+    <string name="session_complete_notification_title">Focus Session Completed! 🎉</string>
+    <string name="session_complete_notification_body">Congratulations! You stayed distraction-free. Blocked apps are now unlocked.</string>
+    <string name="blocking_activity_title">App Blocked</string>
+    <string name="notification_listener_service_name">FocusLock Notification Shield</string>
+</resources>

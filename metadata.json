@@ -1,0 +1,6 @@
+{
+  "name": "FocusLock",
+  "description": "Distraction blocker and focus timer to temporarily lock selected apps and reclaim your attention",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
